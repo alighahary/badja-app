@@ -3,3 +3,16 @@ badja-app/
 README.md
 
 flutter_app/
+badja-app/
+
+├── README.md
+│
+└── flutter_app/
+    │
+    ├── android/
+    ├── ios/
+    ├── lib/
+    ├── test/
+    ├── pubspec.yaml
+    ├── analysis_options.yaml
+    └── README.md
